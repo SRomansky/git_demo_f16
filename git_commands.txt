@@ -15,7 +15,7 @@ git add my_new_file.txt
 git status  # to list the new files or changes that have been added to your project.
 git diff  # will show you which specific lines of code you have changed.
 
-This line is supposed to cause a conflict.
+We resolved the merge conflict.
 
 Another command that corresponds to `git add` is `git rm`
 example usage:
